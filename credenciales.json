@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bot-blue-medellin",
+  "private_key_id": "3e82c728d4185ed5e1f2851b10d7c48e0ebc2313",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7FJWwwT/8t4u2\njuXglXDvoqJ9bM6ni1F+NkY6kJsYAt34toYlv24grctqCevWx1coT9Jjj1LXOERT\nHlnYVGfiIS82ZFPyomk6KFGjIGEPd5B1erCBGp4sW9DdXQyOHnMhLsUudaiZ72t3\n5b9nNlBoIpZUsYN+5oZJQaj2rc6kC/3ChF8EQYsqfvjmpy2DmimnVCL1mEzpVTrD\nUCcCMKnygJLnhsjbN/kpXrMZtNOwdtJNr/WDdMJGvmJ0hTkbbQMNLj0/fsJlNTbZ\ne/g6n8ktsyPB/J/aPnt+1YeOG/6eKESRIalqT3FpopUsvY//HSR/ABUdFrnpsO2T\ni8exxQUVAgMBAAECggEAAdu7fOz+gLkmByM2P1vcqlS4Pny1NM7aeWF6oxxKnhtx\nLwZJINjc9DAlxCDjGdgTEpBwa5LB5OdnLlgv1klIWuOvf1/RwahBWVWLMg6hSDEM\n203jsPSdu50R3xEMjeDZjevUA5khmp3ZOHCszQ6qD87AJYk54CnUDag8UG77jX+Y\npC0M1VylzhdceuUVR6fJ5kNY9+2RoQQaNmvlhMm6vST61DJn4HVeFKkifTn8onSK\n7Qv7g0UCxBpNg+BX42D5Bkx5fL+Q9fol0yzzwVfGslCRBk8YtZJDEXRzXWdU+2gH\nMNgGXQnGTSNYvASFhhSB0Pzqb4nyN/hm4A75kEPHZQKBgQDmhqjvxD8hRk5VUM4R\nReZB0M7/YneBE2VzZnzfJHqjXICAVXLAjT8tacLMNNMyzTc9AyJsWdcaVkEmQqIx\nSkZ+M8HYxPYQTeUSECwO+A+4yqEOFN2jvOlrw9ufEv9cxMvQJHwyLYVgN0H2LjV5\nnYLX42ThYFdXDP/ujeGaRVmXnwKBgQDPwOTeYBDl3XCDPSW5Pz+uZ4doSJgfXbXh\n5aFc1PZPYpipHMzTqeTr+7CvThUymzcs2bqJ2ZT9nw+rzg8qiA/yEEfnu8p7N4Qh\nHruvuxQtc3u7rElynFxIE0BegrPg3tzPUD+I6JTYmrmLMF9e5O7jBkerGpUC8a6y\njWRUQpn2ywKBgFcf879Sm013JenmtUsf8OtVALbSvznAW+pmhLFNNzCAqGxYXxtZ\nBtSiESZenKepmcPsaFktBzgD+3F7Y5NfcA8Ifq3vmtQErJvMEurBZCfCJWaOCkp0\n/n9lMZ8Ibgzgr+sFrw7D15HKsJpbUoiZODdh0OHBKKFU33GInAhTR44fAoGBALos\nCKzCd8IVm2LwI+MKq911RyGLlE7fYkNJzT1sVkGzgExj06WGJO/X/3BJT7Om5l3Z\ny1EG234f0SJLqMmbXna0YktmvL+Ic25epSCITD+ismnurW74cbXhEpjfFaTY8hUR\nu63Lhr9IgCccNQrLqstk8EqDqq8Vt1CoZhUgDerbAoGBALuujbxFcUQY1ZisnbkG\na8710PM8G6Au84RK9ltrcf8AvKu+PqIs5hlH9B+klPSZUKBqnv93vE1Lwdi7NgEp\n5GEcTi1xEC8KLOb2VZuECvKBZ0FxGvrGVWSKSKQn8dkevx2zaLd5n7wbxmQSITa/\n+sI3afefjVYx2R5MrXy+SCWk\n-----END PRIVATE KEY-----\n",
+  "client_email": "blue-bot@bot-blue-medellin.iam.gserviceaccount.com",
+  "client_id": "102059211673013011607",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blue-bot%40bot-blue-medellin.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

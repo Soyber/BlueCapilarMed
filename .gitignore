@@ -1,0 +1,8 @@
+node_modules/
+credenciales.json
+*.png
+*.log
+*_sessions/
+
+
+git
